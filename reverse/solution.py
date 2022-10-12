@@ -13,5 +13,4 @@ class Solution(object):
         return x
     if __name__ == "__main__":
         print(reverse(
-1534236469))
-    print()
+-123))
